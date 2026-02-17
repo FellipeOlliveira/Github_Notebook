@@ -20,4 +20,5 @@ plt.xlabel("Dia do Mês")
 plt.ylabel("Preço (R$)")
 
 plt.legend(title="Legenda")
+plt.savefig('gasolina.png')
 plt.show()
